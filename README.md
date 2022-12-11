@@ -1,2 +1,2 @@
 # python
-python for data analysis (numpy, pandas)
+<<데이터 분석을 위한 파이썬 철저 입문(최은석, 위키북스>> 교재 공부 내용
